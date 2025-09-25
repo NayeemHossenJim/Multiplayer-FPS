@@ -124,6 +124,7 @@ bool UMultiplayerSessionsSubsystem::IsValidSessionInterface()
 {
 	if (!SessionInterface)
 	{
+
 		IOnlineSubsystem* Subsystem = IOnlineSubsystem::Get();
 		if (Subsystem)
 		{
