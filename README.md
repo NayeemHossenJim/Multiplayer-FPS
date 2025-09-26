@@ -1,6 +1,6 @@
-# 🔥 BLASTER - Multiplayer FPS
-
 <div align="center">
+
+# 🔥 BLASTER - Multiplayer FPS
   
   ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-5.4-blue?style=for-the-badge&logo=unrealengine&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -39,6 +39,8 @@
 
 ## 🛠️ Technical Stack
 
+<div align="center">
+
 <table>
 <tr>
 <td align="center"><strong>Engine</strong></td>
@@ -54,18 +56,20 @@
 </tr>
 </table>
 
+</div>
+
 ### 🏗️ Project Structure
 ```
 📁 Blaster/
-├── 🎯 Source/           # C++ source code
-│   └── Blaster/         # Main game module
-├── 🎨 Content/          # Game assets & blueprints
-│   ├── Blueprints/      # Character & game blueprints
-│   ├── Maps/            # Game levels
-│   └── AnimStarterPack/ # Character animations
-├── 🔌 Plugins/          # Custom plugins
-│   └── MultiplayerSessions/  # Network session management
-└── ⚙️ Config/           # Game configuration files
+├── 🎯 Source/             
+│   └── Blaster/            
+├── 🎨 Content/          
+│   ├── Blueprints/      
+│   ├── Maps/            
+│   └── AnimStarterPack/ 
+├── 🔌 Plugins/          
+│   └── MultiplayerSessions/  
+└── ⚙️ Config/           
 ```
 
 ---
@@ -124,7 +128,7 @@
 ### 🎮 Quick Play
 1. Press **Play** in the Unreal Editor
 2. Use **WASD** to move
-3. **Mouse** to look around
+3. **Mouse** to look around and shoot
 4. **Spacebar** to jump
 5. Access multiplayer menu for online play
 
